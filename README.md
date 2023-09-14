@@ -1,4 +1,4 @@
-# MySQL_Task1
+# Introduction to SQL
 ![]()
 
 ## Introdution
